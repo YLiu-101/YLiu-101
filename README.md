@@ -3,7 +3,7 @@
 🎓 **Freshman @ Purdue University**  
 - Dual major in **Computer Science** and **Mathematics**  
 - Undergraduate Machine Learning Researcher
-- Taking on CS 578 (Statistical Machine Learning) next semester
+- Taking on CS 578 (Statistical Machine Learning) this semester
 
 ## 🚀 What I’m Working On  
 - Writing a [blog](https://yliu-101.github.io/) on **science, philosophy, and thought experiments** 
