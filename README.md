@@ -5,10 +5,6 @@
 - Undergraduate Machine Learning Researcher
 - Taking on CS 578 (Statistical Machine Learning) this semester
 
-## 🚀 What I’m Working On  
-- Writing a [blog](https://yliu-101.github.io/) on **science, philosophy, and thought experiments** 
-- Refining an [algorithmic trading bot](https://github.com/YLiu-101/trading-bot)
-- Learning and working on a couple *secret* projects
 
 ## 🌌 What I’ve Done
 
