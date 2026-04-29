@@ -15,7 +15,6 @@
 ## 🔗 Let’s Connect!  
 - **LinkedIn:** [linkedin.com/in/kai-liu](https://www.linkedin.com/in/kai--liu/)  
 - **Blog:** [https://yliu-101.github.io/](https://yliu-101.github.io/)  
-- **YouTube:** [https://www.youtube.com/@bitsofkai](https://www.youtube.com/@bitsofkai)
 
 ## 📈 Skills & Interests  
 - **Programming Languages:** Python, Java, C++, React, MongoDB  
