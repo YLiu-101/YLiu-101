@@ -1,10 +1,7 @@
 # 👋 Hi there, I’m Kai!  
 
-🎓 **Freshman @ Purdue University**  
-- Dual major in **Computer Science** and **Mathematics**  
-- Undergraduate Machine Learning Researcher
-- Taking on CS 578 (Statistical Machine Learning) this semester
-
+🎓 **Soph @ Purdue University**  
+- CS Major
 
 ## 🌌 What I’ve Done
 
